@@ -121,7 +121,7 @@ async function main() {
       polygonZkEvmProtoV3,
       bnbProtoV3,
       arbitrumProtoV3,
-      optimismGoerliProtoV3,
+      // optimismGoerliProtoV3,
       optimismProtoV3,
       scrollProtoV3,
       scrollSepoliaProtoV3,
