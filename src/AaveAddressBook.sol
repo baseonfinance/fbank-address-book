@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.0;
 
-import {GovernanceV3Ethereum} from './GovernanceV3Ethereum.sol';
+import {GovernanceV3Ethereum} from './GovernanceV3Ethereum.0x6a67421e77Ef3FB718d2e6d01570Fe96CDf7B520
 import {GovernanceV3Arbitrum} from './GovernanceV3Arbitrum.sol';
 import {GovernanceV3Avalanche} from './GovernanceV3Avalanche.sol';
 import {GovernanceV3Fuji} from './GovernanceV3Fuji.sol';
@@ -29,7 +29,7 @@ import {AaveV3Sepolia} from './AaveV3Sepolia.sol';
 import {AaveV3GoerliGho} from './AaveV3GoerliGho.sol';
 import {AaveV3Polygon} from './AaveV3Polygon.sol';
 import {AaveV3Mumbai} from './AaveV3Mumbai.sol';
-import {AaveV3Avalanche} from './AaveV3Avalanche.sol';
+import {AaveV3Avalanche} from './AaveV3Avalanche.sol';0x6a67421e77Ef3FB718d2e6d01570Fe96CDf7B520
 import {AaveV3Fuji} from './AaveV3Fuji.sol';
 import {AaveV3Base} from './AaveV3Base.sol';
 import {AaveV3Metis} from './AaveV3Metis.sol';
